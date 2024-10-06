@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Genilton SIlva 🖐️
 
-[![Blog](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://sujeitoprogramador.com/)]([https://g-silvaa.github.io/Portfolio/](https://geniltonsilva.vercel.app/geniltonsilva-portfolio/))
+[![Blog](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://g-silvaa.github.io/Portfolio/](https://geniltonsilva.vercel.app/geniltonsilva-portfolio/))
 [![Youtube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/genilton-silva-974705204/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_geniltonsilva_/?next=%2F)
 
