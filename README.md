@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Genilton SIlva 🖐️
 
-[![Blog](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://geniltonsilva.vercel.app/geniltonsilva-portfolio/)
+[![Blog](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://sujeitoprogramador.com/)]([https://geniltonsilva.vercel.app/geniltonsilva-portfolio/](https://g-silva.vercel.app/))
 [![Youtube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/genilton-silva-974705204/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_geniltonsilva_/?next=%2F)
+
 
 
 ![GeniltonSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Silvaa&show_icons=true&theme=dark&count_private=true)
