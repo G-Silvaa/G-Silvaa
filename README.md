@@ -38,6 +38,3 @@ Atualmente, tenho foco no desenvolvimento de aplicações **backend com Java e S
 
 <br/>
 
-🎯 **Objetivo:** evoluir cada vez mais como desenvolvedor, aprofundando meus conhecimentos em **backend, arquitetura de software, infraestrutura e DevOps**.
-
-> Apaixonado por tecnologia, educação e por transformar ideias em soluções através da programação.
